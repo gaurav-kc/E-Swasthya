@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/root/AndroidStudioProjects prev/Doctor/libraries/bottom-bar/build/intermediates/res/merged/androidTest/debug/xml/dummy_tabs_five.xml",
+        "source": "/root/AndroidStudioProjects prev/Doctor/libraries/bottom-bar/src/androidTest/res/xml/dummy_tabs_five.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects prev/Doctor/libraries/bottom-bar/build/intermediates/res/merged/androidTest/debug/xml/dummy_tabs_three.xml",
+        "source": "/root/AndroidStudioProjects prev/Doctor/libraries/bottom-bar/src/androidTest/res/xml/dummy_tabs_three.xml"
+    }
+]

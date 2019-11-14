@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/root/AndroidStudioProjects prev/Doctor/libraries/wizardpager/build/intermediates/res/merged/release/layout/fragment_page_image.xml",
+        "source": "/root/AndroidStudioProjects prev/Doctor/libraries/wizardpager/src/main/res/layout/fragment_page_image.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects prev/Doctor/libraries/wizardpager/build/intermediates/res/merged/release/layout/list_item_review.xml",
+        "source": "/root/AndroidStudioProjects prev/Doctor/libraries/wizardpager/src/main/res/layout/list_item_review.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects prev/Doctor/libraries/wizardpager/build/intermediates/res/merged/release/layout/fragment_page_geo.xml",
+        "source": "/root/AndroidStudioProjects prev/Doctor/libraries/wizardpager/src/main/res/layout/fragment_page_geo.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects prev/Doctor/libraries/wizardpager/build/intermediates/res/merged/release/layout/fragment_page.xml",
+        "source": "/root/AndroidStudioProjects prev/Doctor/libraries/wizardpager/src/main/res/layout/fragment_page.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects prev/Doctor/libraries/wizardpager/build/intermediates/res/merged/release/layout/fragment_page_text.xml",
+        "source": "/root/AndroidStudioProjects prev/Doctor/libraries/wizardpager/src/main/res/layout/fragment_page_text.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects prev/Extracted/WizardPager-master/library/build/intermediates/res/merged/release/layout/list_item_review.xml",
+        "source": "/root/AndroidStudioProjects prev/Extracted/WizardPager-master/library/src/main/res/layout/list_item_review.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects prev/Extracted/WizardPager-master/library/build/intermediates/res/merged/release/layout/fragment_page_image.xml",
+        "source": "/root/AndroidStudioProjects prev/Extracted/WizardPager-master/library/src/main/res/layout/fragment_page_image.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects prev/Extracted/WizardPager-master/library/build/intermediates/res/merged/release/layout/fragment_page_text.xml",
+        "source": "/root/AndroidStudioProjects prev/Extracted/WizardPager-master/library/src/main/res/layout/fragment_page_text.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects prev/Extracted/WizardPager-master/library/build/intermediates/res/merged/release/layout/fragment_page.xml",
+        "source": "/root/AndroidStudioProjects prev/Extracted/WizardPager-master/library/src/main/res/layout/fragment_page.xml"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects prev/Extracted/WizardPager-master/library/build/intermediates/res/merged/release/layout/fragment_page_geo.xml",
+        "source": "/root/AndroidStudioProjects prev/Extracted/WizardPager-master/library/src/main/res/layout/fragment_page_geo.xml"
+    }
+]

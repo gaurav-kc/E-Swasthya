@@ -1,0 +1,96 @@
+[
+    {
+        "outputFile": "/root/AndroidStudioProjects prev/Extracted/WizardPager-master/library/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 545
+                },
+                "from": {
+                    "file": "/root/AndroidStudioProjects prev/Extracted/WizardPager-master/library/src/main/res/values-v16/styles.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 568,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 1058
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 550,
+                    "endLine": 20,
+                    "endColumn": 12,
+                    "endOffset": 1095
+                },
+                "from": {
+                    "file": "/root/AndroidStudioProjects prev/Extracted/WizardPager-master/library/src/main/res/values-v16/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endLine": 11,
+                        "endColumn": 12,
+                        "endOffset": 562
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/root/AndroidStudioProjects prev/Doctor/libraries/wizardpager/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 545
+                },
+                "from": {
+                    "file": "/root/AndroidStudioProjects prev/Doctor/libraries/wizardpager/src/main/res/values-v16/styles.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 568,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 1058
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 550,
+                    "endLine": 20,
+                    "endColumn": 12,
+                    "endOffset": 1095
+                },
+                "from": {
+                    "file": "/root/AndroidStudioProjects prev/Doctor/libraries/wizardpager/src/main/res/values-v16/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endLine": 11,
+                        "endColumn": 12,
+                        "endOffset": 562
+                    }
+                }
+            }
+        ]
+    }
+]

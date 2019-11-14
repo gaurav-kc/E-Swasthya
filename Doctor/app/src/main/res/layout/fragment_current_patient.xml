@@ -1,0 +1,50 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.rgn.doctor.CurrentPatient">
+
+    <!-- TODO: Update blank fragment layout -->
+   <RelativeLayout
+       android:layout_width="match_parent"
+       android:layout_height="match_parent">
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textSize="30dp"
+    android:text="Latest Patient Information"
+    android:layout_marginLeft="100dp"
+    android:layout_marginBottom="50dp"
+    android:id="@+id/pol"/>
+
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:orientation="vertical"
+           android:layout_below="@+id/pol"
+           android:layout_marginLeft="150dp">
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:textSize="30dp"
+               android:id="@+id/patientname"
+               android:padding="20dp"/>
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:textSize="30dp"
+               android:padding="30dp"
+               android:gravity="center"
+               android:id="@+id/patientappdatetime"
+               />
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:textSize="25dp"
+               android:id="@+id/patientsymptoms"/>
+
+
+
+       </LinearLayout>
+   </RelativeLayout>
+</FrameLayout>

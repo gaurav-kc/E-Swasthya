@@ -1,0 +1,30 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.2"
+
+    defaultConfig {
+        minSdkVersion 10
+        targetSdkVersion 25
+        versionCode 322
+        versionName "3.2.2"
+    }
+    buildTypes {
+        release {
+            //minifyEnabled
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    compile 'com.android.support:appcompat-v7:'+APP_COMPAT
+    compile 'com.android.support:cardview-v7:'+CARD_VIEW
+    compile 'com.android.support:recyclerview-v7:'+RECYCLER_VIEW
+    compile 'com.nineoldandroids:library:2.4.0'
+	compile 'com.squareup.picasso:picasso:2.5.2'
+}
+
+// Script to upload plugin to Maven

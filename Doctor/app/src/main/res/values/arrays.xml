@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="mednames">
+        <item>David Pizarro</item>
+        <item>Manuel García Varés</item>
+        <item>Eduardo Centeno</item>
+    </array>
+    <array name="dosages">
+        <item>26</item>
+        <item>32</item>
+        <item>28</item>
+    </array>
+    <string-array name="timings">
+        <item>62</item>
+        <item>23</item>
+        <item>82</item>
+    </string-array>
+</resources>

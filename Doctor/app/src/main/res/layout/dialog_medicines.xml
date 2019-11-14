@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal"
+    xmlns:tools="http://schemas.android.com/tools">
+<ListView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/listview_dialog"
+    android:layout_marginBottom="20dp"
+    />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/cancelbutton"
+        android:layout_below="@+id/listview_dialog"
+        android:layout_toLeftOf="@+id/confirmbutton"
+        android:layout_marginLeft="80dp"
+        android:text="Cancel"
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/confirmbutton"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/listview_dialog"
+        android:text="Place Order"
+        />
+
+</RelativeLayout>

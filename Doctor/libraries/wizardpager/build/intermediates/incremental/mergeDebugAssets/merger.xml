@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/root/AndroidStudioProjects prev/Doctor/libraries/wizardpager/src/main/assets"/><source path="/root/AndroidStudioProjects prev/Doctor/libraries/wizardpager/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/root/AndroidStudioProjects prev/Doctor/libraries/wizardpager/src/debug/assets"/></dataSet></merger>

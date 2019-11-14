@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">E_Swasthya</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pain">Pain</string>
+    <string name="inflammation">Inflammation</string>
+    <string name="coughing">Coughing</string>
+    <string name="injury">Injury</string>
+    <string name="fever">Fever</string>
+    <string name="rashes">Rashes</string>
+    <string name="vomiting">Vomiting</string>
+    <string name="tiredness">Tiredness</string>
+    <string name="shivering">Shivering</string>
+    <string name="loosemotion">Loose Motion</string>
+</resources>

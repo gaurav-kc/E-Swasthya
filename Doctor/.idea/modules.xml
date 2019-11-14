@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/libraries/AutoLabelUI/AutoLabelUI.iml" filepath="$PROJECT_DIR$/libraries/AutoLabelUI/AutoLabelUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Doctor.iml" filepath="$PROJECT_DIR$/Doctor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/bottom-bar/bottom-bar.iml" filepath="$PROJECT_DIR$/libraries/bottom-bar/bottom-bar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/libraries.iml" filepath="$PROJECT_DIR$/libraries/libraries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/materialList/materialList.iml" filepath="$PROJECT_DIR$/libraries/materialList/materialList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraries/wizardpager/wizardpager.iml" filepath="$PROJECT_DIR$/libraries/wizardpager/wizardpager.iml" />
+    </modules>
+  </component>
+</project>

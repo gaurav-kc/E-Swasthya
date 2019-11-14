@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/root/AndroidStudioProjects prev/Doctor/libraries/wizardpager/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ic_person.png",
+        "source": "/root/AndroidStudioProjects prev/Doctor/libraries/wizardpager/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_person.png"
+    },
+    {
+        "merged": "/root/AndroidStudioProjects prev/Extracted/WizardPager-master/library/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4/ic_person.png",
+        "source": "/root/AndroidStudioProjects prev/Extracted/WizardPager-master/library/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_person.png"
+    }
+]
